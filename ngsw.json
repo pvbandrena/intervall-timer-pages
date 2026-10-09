@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1791541488260,
+  "timestamp": 1791552799807,
   "index": "/intervall-timer-pages/index.html",
   "assetGroups": [
     {
@@ -13,9 +13,9 @@
       "urls": [
         "/intervall-timer-pages/favicon.ico",
         "/intervall-timer-pages/index.html",
-        "/intervall-timer-pages/main-DAD75G4B.js",
+        "/intervall-timer-pages/main-TBLG6KTJ.js",
         "/intervall-timer-pages/manifest.webmanifest",
-        "/intervall-timer-pages/styles-GUFIZS4T.css"
+        "/intervall-timer-pages/styles-KTFZAIUG.css"
       ],
       "patterns": []
     },
@@ -50,10 +50,10 @@
     "/intervall-timer-pages/icons/icon-512x512.png": "1de182f76f7329dfa8f9fcdd1fdcdd695bea6a99",
     "/intervall-timer-pages/icons/icon-72x72.png": "aa88a6096bd973be7f6d7a5489bfa6bc2463f8c4",
     "/intervall-timer-pages/icons/icon-96x96.png": "7fb8f59c30ce2ff12c700321a0b39e14b3dc8f95",
-    "/intervall-timer-pages/index.html": "95fc76b8a1ae59cf2c445db1d8378bdd8779f8cd",
-    "/intervall-timer-pages/main-DAD75G4B.js": "77f3672f9fa6d19c5dd701bb9b66ef4bba507099",
+    "/intervall-timer-pages/index.html": "15095f77d9554935ce92dd3f6521152e88edcb58",
+    "/intervall-timer-pages/main-TBLG6KTJ.js": "3005145986c26741d3517df3eaf7e40fd4097d0c",
     "/intervall-timer-pages/manifest.webmanifest": "0f7158dfe0b0b42378fff0f67ba995c67a2f2c77",
-    "/intervall-timer-pages/styles-GUFIZS4T.css": "1d7a509343b3524a7dda2e4e709adf7c3a4146cf"
+    "/intervall-timer-pages/styles-KTFZAIUG.css": "3a0e4b80dc87952c03d337f248cf42331af58004"
   },
   "navigationUrls": [
     {
