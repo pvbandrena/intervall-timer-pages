@@ -1,0 +1,77 @@
+{
+  "configVersion": 1,
+  "timestamp": 1791532710326,
+  "index": "/intervall-timer-pages/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/intervall-timer-pages/favicon.ico",
+        "/intervall-timer-pages/index.html",
+        "/intervall-timer-pages/main-4RBMOQPU.js",
+        "/intervall-timer-pages/manifest.webmanifest",
+        "/intervall-timer-pages/styles-AQMPW7UJ.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/intervall-timer-pages/icons/icon-128x128.png",
+        "/intervall-timer-pages/icons/icon-144x144.png",
+        "/intervall-timer-pages/icons/icon-152x152.png",
+        "/intervall-timer-pages/icons/icon-192x192.png",
+        "/intervall-timer-pages/icons/icon-384x384.png",
+        "/intervall-timer-pages/icons/icon-512x512.png",
+        "/intervall-timer-pages/icons/icon-72x72.png",
+        "/intervall-timer-pages/icons/icon-96x96.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/intervall-timer-pages/favicon.ico": "9c39f434fe1261f68c5e3eefdf734630d99c5670",
+    "/intervall-timer-pages/icons/icon-128x128.png": "f912963bdc6d5a38d8f1dd0afbaab2ce8d657acb",
+    "/intervall-timer-pages/icons/icon-144x144.png": "b155fd5f2fd5d2ea7760721063003c4cd95fd783",
+    "/intervall-timer-pages/icons/icon-152x152.png": "eae6e0f0c8afb8aaae339e2a569b43e9238e5e6c",
+    "/intervall-timer-pages/icons/icon-192x192.png": "15c4180454633880d98674aa7394656196c91584",
+    "/intervall-timer-pages/icons/icon-384x384.png": "94a915751ef6c9282df9aea405ad679230631814",
+    "/intervall-timer-pages/icons/icon-512x512.png": "1de182f76f7329dfa8f9fcdd1fdcdd695bea6a99",
+    "/intervall-timer-pages/icons/icon-72x72.png": "aa88a6096bd973be7f6d7a5489bfa6bc2463f8c4",
+    "/intervall-timer-pages/icons/icon-96x96.png": "7fb8f59c30ce2ff12c700321a0b39e14b3dc8f95",
+    "/intervall-timer-pages/index.html": "7cdbe54dbe5e0472c2e74b7499e9a3e86476b0d3",
+    "/intervall-timer-pages/main-4RBMOQPU.js": "8578cb8e6329e8db813b4a05c5eb00368d1cc18f",
+    "/intervall-timer-pages/manifest.webmanifest": "0f7158dfe0b0b42378fff0f67ba995c67a2f2c77",
+    "/intervall-timer-pages/styles-AQMPW7UJ.css": "9272aabec3fc5b0fe48104824718085ce05db74b"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
